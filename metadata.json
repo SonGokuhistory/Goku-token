@@ -1,0 +1,24 @@
+{
+  "name": "Son Goku",
+  "symbol": "GOKU",
+  "description": "Мем-токен Son Goku",
+  "image": "https://son-goku.onepage.me/goku_logo_512.png",
+  "external_url": "https://son-goku.onepage.me",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://son-goku.onepage.me/goku_logo_512.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "extensions": {
+    "website": "https://son-goku.onepage.me",
+    "twitter": "https://twitter.com/goku_invest",
+    "telegram": "https://t.me/goku_invest_chat",
+    "medium": "https://medium.com/@songokuhistory",
+    "github": "https://github.com/SonGokuhistory"
+  }
+}
